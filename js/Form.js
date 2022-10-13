@@ -15,13 +15,13 @@ class Form {
   }
 
   hide() {
-    this.greeting.hide();
-    this.playButton.hide();
-    this.input.hide();
+   
   }
 
   display() {
-    this.setElementsPosition();
-    this.setElementsStyle();
+
   }
+  
+  handleMousePressed(){
+    }
 }
